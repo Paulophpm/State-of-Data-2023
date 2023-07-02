@@ -1,0 +1,15 @@
+Perguntas a serem respondidas/analisadas
+1 - Diversidade e Inclusão
+    - mulheres atuando no mercado;
+    - PCD;
+    - Raça/etnia;
+    - faixa salárial;
+    - Idade;
+    - Nível de Ensino;
+2 - Região de atuação e modelo de trabalho
+    - colocar mapa dos estados
+    - Região
+    - região por modelo de trabalho
+3 - Mercado de atuação
+    - Qual o setor que mais emrprega profissinais de dados
+    - Em qual área de dados trabalham? (DS/BI...)
